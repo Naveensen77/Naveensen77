@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **dot net**
 
-- 👨‍💻 All of my projects are available at [https://portfon.netlify.app/](https://portfon.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://naveensen.netlify.app/](https://naveensen.netlify.app/)
 
 - 💬 Ask me about **.net**
 
