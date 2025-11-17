@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I am a full-stack developer with over 2 years of experience specializing in .NET Core. My expertise spans across various government projects 🏛️, where I've contributed to building robust and scalable applications 💻.
+🚀 I am a full-stack developer with over 3+ years of experience specializing in .NET Core. My expertise spans across various government projects 🏛️, where I've contributed to building robust and scalable applications 💻.
 
 
 ## 🌐 Socials:
